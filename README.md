@@ -1,2 +1,2 @@
 # Epoch-Website
-jmuratov98.github.io/Epoch
+jmuratov98.github.io/epochengine
